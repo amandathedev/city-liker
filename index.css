@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+/* #city-header {
+  display: flex;
+  justify-content: center;
+  opacity: .8;
+  height: 11rem;
+} */
+
+.city-div {
+  justify-content: center;
+}
+
+#new-city-container {
+  margin-bottom: 10em;
+}
+
+.new-form {
+  margin-left: 45%;
+}
+
+h1, h3, h5, p {
+  text-align: center;
+}
+
+h5 {
+  font-size: 1rem;
+  color: darkcyan;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+button {
+  margin-left: 48.5%;
+  margin-bottom: 30px;
+}
+
+.city-image {
+  width: 70%;
+  margin-left: 15%;
+}
