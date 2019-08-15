@@ -113,31 +113,13 @@ const addCity = (city) => {
 
 const deleteCity = (id) => {
   // event.preventDefault()
-      fetch(`http://localhost:3000/cities/${id}`, {
-        method: "DELETE"
-      })
-      .then(res => res.json())
-      .then(city => document.getElementById('city' + id).remove())
-      .catch(err => alert(err))
-      }
+  fetch(`http://localhost:3000/cities/${id}`, {
+    method: "DELETE"
+  })
+  .then(res => res.json())
+  .then(city => document.getElementById('city' + id).remove())
+  .catch(err => alert(err))
+}
 
 fetchCities()
 addCity()
-
-
-
-
-
-
-
-
-
-/* <select name="Continent">
-<option value="continent" default>Continent</option>
-<option value="africa">Africa</option>
-<option value="asia">Asia</option>
-<option value="australia">Australia</option>
-<option value="europe">Europe</option>
-<option value="north-america">North America</option>
-<option value="south-america">South America</option>
-</select> */

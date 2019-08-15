@@ -128,20 +128,6 @@
       "id": 22
     },
     {
-      "name": "Chicago",
-      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2013&q=80",
-      "description": ":)",
-      "likes": 1,
-      "id": 25
-    },
-    {
-      "name": "London",
-      "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
-      "description": ":)",
-      "likes": 0,
-      "id": 26
-    },
-    {
       "name": "Tallinn",
       "image": "https://i.redd.it/vojqm1hvbge31.jpg",
       "description": "Tallinn is the capital, primate and the most populous city of Estonia. Located in the northern part of the country, on the shore of the Gulf of Finland of the Baltic Sea, it has a population of 434,562.  Tallinn has the highest number of startups per person among European countries.",
@@ -166,14 +152,14 @@
       "name": "Carcassonne",
       "image": "https://i.redd.it/j2ru3x6fmcm21.jpg",
       "description": "Carcassonne is a French fortified city in the department of Aude, in the region of Occitanie. Its citadel, known as the Cité de Carcassonne, is a medieval fortress dating back to the Gallo-Roman period and restored by the theorist and architect Eugène Viollet-le-Duc in 1853. It was added to the UNESCO list of World Heritage Sites in 1997.",
-      "likes": 0,
+      "likes": 1,
       "id": 30
     },
     {
       "name": "Tokyo",
       "image": "https://i.imgur.com/G72AYVF.jpg",
       "description": "Tokyo has served as the Japanese capital since 1869.[8][9] As of 2018, the Greater Tokyo Area ranked as the most populous metropolitan area in the world. ",
-      "likes": 0,
+      "likes": 1,
       "id": 31
     }
   ]
